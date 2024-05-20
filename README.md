@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Talha Munawar
 
-![Profile Picture](https://avatars.githubusercontent.com/u/170351815?v=4)
+
 
 ## About Me
 
